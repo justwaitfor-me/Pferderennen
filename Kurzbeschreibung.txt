@@ -1,0 +1,35 @@
+Kurzbeschreibung – Gruppe: Diego Reim & Paul Platz
+
+Projektthema:Pferderennen
+Sprache: Java (Swing / JFrame)
+
+-------------------------------------------------------
+KURZBESCHREIBUNG
+-------------------------------------------------------
+Pferderennen-Simulator mit Java Swing.
+6 Pferde, zufällige Quoten, 3 Wetttypen (Sieg/Platz/Show).
+Animierte Rennbahn via Graphics2D, Swing Timer (60ms Tick).
+Spielernamen-Eingabe, persistentes Leaderboard (CSV-Datei).
+
+-------------------------------------------------------
+ARBEITSAUFTEILUNG
+-------------------------------------------------------
+
+Diego (60%)
+- Projektstruktur und MVC-Architektur aufgesetzt
+- Model-Klassen: Horse, Race, Bet, Player
+- GameController (Spiellogik, Timer, Wettabrechnung)
+- TrackPanel (Graphics2D Rennbahn, Sprite-Zeichnung)
+- BettingPanel (Wettformular, Steuerknöpfe, Bugfixes)
+- Highscore-System (HighscoreEntry, HighscoreManager, CSV)
+- Allgemeines Debugging und Feinschliff
+
+Paul (40%)
+- MainFrame (Layout, Farbpalette, Split-Pane)
+- PlayerNameDialog (Spielernamen-Eingabe)
+- LeaderboardDialog (Tabellenansicht, Top-3 Highlighting)
+- InfoPanel und StatusBar
+- ResultDialog (Ergebnisanzeige nach Rennen)
+- README und Dokumentation
+
+-------------------------------------------------------
