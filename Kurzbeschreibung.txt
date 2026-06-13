@@ -2,6 +2,7 @@ Kurzbeschreibung – Gruppe: Diego Reim & Paul Platz
 
 Projektthema:Pferderennen
 Sprache: Java (Swing / JFrame)
+GitHub: https://github.com/justwaitfor-me/Pferderennen
 
 -------------------------------------------------------
 KURZBESCHREIBUNG

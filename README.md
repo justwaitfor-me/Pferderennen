@@ -77,6 +77,10 @@ Verwaltet durch [`util.HighscoreManager`](util/HighscoreManager.java). Datei: [`
 
 Projekt für das Ravensberger Gymansium Herford — Namen eintragen in `Kurzbeschreibung.txt` ([Kurzbeschreibung.txt](Kurzbeschreibung.txt)).
 
+## Links
+
+GitHub: [github.com/](https://github.com/justwaitfor-me/Pferderennen)
+
 ## Lizenz
 
 MIT License

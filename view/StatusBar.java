@@ -19,7 +19,7 @@ public class StatusBar extends JPanel {
         msg.setForeground(MainFrame.TEXT_MUTED);
         add(msg, BorderLayout.WEST);
 
-        JLabel ver = new JLabel("v2.0  |  MIT License ");
+        JLabel ver = new JLabel("v2.0  |  MIT License | https://github.com/justwaitfor-me/Pferderennen");
         ver.setFont(new Font("Segoe UI", Font.PLAIN, 11));
         ver.setForeground(new Color(50, 55, 75));
         add(ver, BorderLayout.EAST);
